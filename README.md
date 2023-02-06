@@ -3,6 +3,8 @@ In this project I used the data provided at https://www.mavenanalytics.io/data-p
 
 The data was cleaned, transformed and analyzed with DAX and finally visualized using Power BI.
 
+The data was then used to answer some important business questions. I also gave clear recommendations based on the insight from the analysis to help improve the business further.
+
 Link to dashboard : https://app.powerbi.com/reportEmbed?reportId=73c8edc3-0cca-4f76-b2de-882c7eb25e31&autoAuth=true&ctid=2d659c31-0069-447c-8815-e337f73f5d59
 
 My LinkedIn post on the project : https://bit.ly/3RwU5C5
