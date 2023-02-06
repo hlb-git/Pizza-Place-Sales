@@ -5,5 +5,9 @@ The data was cleaned, transformed and analyzed with DAX and finally visualized u
 
 Link to dashboard : https://app.powerbi.com/reportEmbed?reportId=73c8edc3-0cca-4f76-b2de-882c7eb25e31&autoAuth=true&ctid=2d659c31-0069-447c-8815-e337f73f5d59
 
+My LinkedIn post on the project : https://bit.ly/3RwU5C5
+
 a snippet :
-![Order analysis](https://user-images.githubusercontent.com/93451988/216915411-66956fe2-9dbf-4a67-bf9a-73837621598e.png)
+
+![Customer analysis](https://user-images.githubusercontent.com/93451988/216917420-a4d496d6-a651-46a9-bfb5-ce12fe40edf8.png)
+
