@@ -9,7 +9,11 @@ Link to dashboard : https://app.powerbi.com/reportEmbed?reportId=73c8edc3-0cca-4
 
 My LinkedIn post on the project : https://bit.ly/3RwU5C5
 
-a snippet :
+snippets :
 
-![Customer analysis](https://user-images.githubusercontent.com/93451988/216917420-a4d496d6-a651-46a9-bfb5-ce12fe40edf8.png)
+![1](https://user-images.githubusercontent.com/93451988/222663288-699053de-8007-41c5-9c71-473f6cf14f2e.png)
+![2](https://user-images.githubusercontent.com/93451988/222663333-eb17def7-66e7-49af-85b8-ed083145ed81.png)
+![3](https://user-images.githubusercontent.com/93451988/222663367-79a628e7-a9b2-487a-8ea0-6f315faf61d1.png)
+![4](https://user-images.githubusercontent.com/93451988/222663414-b885127a-32ad-4df5-83c7-410f960a1fc2.png)
+
 
